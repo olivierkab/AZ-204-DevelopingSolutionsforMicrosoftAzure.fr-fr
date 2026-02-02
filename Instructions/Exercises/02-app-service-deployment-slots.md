@@ -4,7 +4,7 @@ lab:
   description: "Découvrez comment échanger des emplacements de déploiement dans Azure\_App\_Service. Dans cet exercice, vous déployez une application simple sur App\_Service, apportez une petite modification à l’application et la déployez sur un emplacement de préproduction. Enfin, vous échangez les emplacements afin que l’application mise à jour soit en production."
 ---
 
-# Échanger des emplacements de déploiement dans Azure App Service
+## Échanger des emplacements de déploiement dans Azure App Service
 
 Dans cet exercice, vous allez déployer un site HTML+CSS de base sur Azure App Service avec la commande **az webapp up** d’Azure CLI. Ensuite, vous mettez à jour le code et déployez la modification sur un emplacement de préproduction. Enfin, vous échangez les emplacements.
 
@@ -68,7 +68,7 @@ Dans cette section, vous téléchargez l’exemple d’application et définisse
 
 Dans cette section, vous créez un emplacement de déploiement, modifiez le code HTML dans l’application et déployez le code mis à jour sur le nouvel emplacement de déploiement.
 
-### Créer un emplacement de déploiement 
+### Créer un emplacement de déploiement
 
 1. Revenez à l’onglet avec le portail Azure et Cloud Shell.
 
